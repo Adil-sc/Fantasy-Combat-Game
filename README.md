@@ -14,11 +14,11 @@ Then the value of that damage is subtracted from the defender’s strength point
 ## Installation and Usage
 Compile the program with this command:
 ```
-make FinalProject
+make Project3
 ```
 Run with the following command:
 ```unix
-./FinalProject
+./Project3
 ```
 
 ## Built With
